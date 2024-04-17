@@ -1,0 +1,3 @@
+[submodule "extensions/asymmetric-tiling-sd-webui"]
+	path = extensions/asymmetric-tiling-sd-webui
+	url = https://github.com/tjm35/asymmetric-tiling-sd-webui
